@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\weblab2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|solutionrelative:weblab2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\weblab2\\controllers\\orderlinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|solutionrelative:weblab2\\controllers\\orderlinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|c:\\users\\super_pooper\\source\\repos\\weblab2\\weblab2\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|solutionrelative:weblab2\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\weblab2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|solutionrelative:weblab2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\weblab2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|solutionrelative:weblab2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\weblab2\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|solutionrelative:weblab2\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\weblab2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|solutionrelative:weblab2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\weblab2\\models\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|solutionrelative:weblab2\\models\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\weblab2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|solutionrelative:weblab2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\weblab2\\models\\data\\coffeehousecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|solutionrelative:weblab2\\models\\data\\coffeehousecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\weblab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|solutionrelative:weblab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\weblab2\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|solutionrelative:weblab2\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\weblab2\\models\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|solutionrelative:weblab2\\models\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\weblab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|solutionrelative:weblab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\weblab2\\models\\coffeehousecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|solutionrelative:weblab2\\models\\coffeehousecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\weblab2\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|solutionrelative:weblab2\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Migrations\\20240501180945_PlusType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D9D9AB-FF6B-49EA-951B-FBCF32BD214E}|WebLab2\\WebLab2.csproj|solutionrelative:WebLab2\\Migrations\\20240501180945_PlusType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 527,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderLine.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Models\\OrderLine.cs",
+              "RelativeDocumentMoniker": "WebLab2\\Models\\OrderLine.cs",
+              "ToolTip": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Models\\OrderLine.cs",
+              "RelativeToolTip": "WebLab2\\Models\\OrderLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:19:59.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "WebLab2\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Models\\Order.cs",
+              "RelativeToolTip": "WebLab2\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:02:25.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CoffeeHouseContextSeed.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Models\\Data\\CoffeeHouseContextSeed.cs",
+              "RelativeDocumentMoniker": "WebLab2\\Models\\Data\\CoffeeHouseContextSeed.cs",
+              "ToolTip": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Models\\Data\\CoffeeHouseContextSeed.cs",
+              "RelativeToolTip": "WebLab2\\Models\\Data\\CoffeeHouseContextSeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:59:59.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebLab2\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebLab2\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAuwDMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:28:16.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebLab2\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebLab2\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwGEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T18:48:42.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderLinesController.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Controllers\\OrderLinesController.cs",
+              "RelativeDocumentMoniker": "WebLab2\\Controllers\\OrderLinesController.cs",
+              "ToolTip": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Controllers\\OrderLinesController.cs",
+              "RelativeToolTip": "WebLab2\\Controllers\\OrderLinesController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAACQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:38:12.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "WebLab2\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "WebLab2\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwDAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:46:58.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IdentitySeed.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Models\\Data\\IdentitySeed.cs",
+              "RelativeDocumentMoniker": "WebLab2\\Models\\Data\\IdentitySeed.cs",
+              "ToolTip": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Models\\Data\\IdentitySeed.cs",
+              "RelativeToolTip": "WebLab2\\Models\\Data\\IdentitySeed.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:14:42.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebLab2\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Models\\Product.cs",
+              "RelativeToolTip": "WebLab2\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:08:19.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240501180945_PlusType.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Migrations\\20240501180945_PlusType.cs",
+              "RelativeDocumentMoniker": "WebLab2\\Migrations\\20240501180945_PlusType.cs",
+              "ToolTip": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Migrations\\20240501180945_PlusType.cs",
+              "RelativeToolTip": "WebLab2\\Migrations\\20240501180945_PlusType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:09:45.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "WebLab2\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Models\\Role.cs",
+              "RelativeToolTip": "WebLab2\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:35:55.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebLab2\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Models\\User.cs",
+              "RelativeToolTip": "WebLab2\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:35:54.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebLab2\\appsettings.json",
+              "ToolTip": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\appsettings.json",
+              "RelativeToolTip": "WebLab2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-13T18:48:35.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Program.cs",
+              "RelativeDocumentMoniker": "WebLab2\\Program.cs",
+              "ToolTip": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Program.cs",
+              "RelativeToolTip": "WebLab2\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T18:48:26.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CoffeeHouseContext.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Models\\CoffeeHouseContext.cs",
+              "RelativeDocumentMoniker": "WebLab2\\Models\\CoffeeHouseContext.cs",
+              "ToolTip": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Models\\CoffeeHouseContext.cs",
+              "RelativeToolTip": "WebLab2\\Models\\CoffeeHouseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:58:01.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "WebLab2\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "WebLab2\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:21:33.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "WebLab2\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\SUPER_POOPER\\source\\repos\\WebLab2\\WebLab2\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "WebLab2\\Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:19:53.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 55,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9a7cebbb-dc5c-4986-bc49-962da46aa506}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
